@@ -74,8 +74,6 @@
 
 <p>Fenomena ini juga didukung oleh penelitian Chang (2023) yang menyatakan bahwa bias dalam sistem rekrutmen berbasis AI dapat berdampak besar terhadap individu maupun masyarakat luas. Studi tersebut menegaskan bahwa kasus Amazon merupakan contoh nyata bagaimana algoritma dapat memperkuat diskriminasi gender ketika dilatih menggunakan data yang tidak seimbang. Oleh karena itu, penggunaan AI tanpa pengawasan yang memadai justru berpotensi memperbesar ketimpangan yang sudah ada di masyarakat.</p>
 
-<br> 
-
 ## 2.4  Analisis Transparansi AI
 
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
@@ -94,3 +92,13 @@
 <p>Bias dalam sistem AI rekrutmen memiliki dampak yang signifikan terhadap kesetaraan gender di dunia kerja. Perempuan menjadi pihak yang paling dirugikan karena sistem secara sistematis memberikan penilaian yang lebih rendah.</p>
 
 <p>Akibatnya, peluang perempuan untuk bekerja di bidang tertentu menjadi semakin kecil. Dalam jangka panjang, hal ini dapat memperlebar kesenjangan gender, baik dalam hal kesempatan kerja maupun perkembangan karier. AI yang seharusnya membantu justru memperkuat ketimpangan yang sudah ada.</p>
+
+## 2.6 Analisis Tanggung Jawab Pengembang
+<p>Dalam pengembangan sistem AI, pengembang memiliki tanggung jawab besar untuk memastikan bahwa teknologi yang dibuat tidak merugikan masyarakat. Namun, dalam kasus ini terlihat bahwa tanggung jawab tersebut belum sepenuhnya dijalankan dengan baik.</p>
+
+<p>Kurangnya pengujian terhadap potensi bias menunjukkan bahwa aspek keadilan belum menjadi prioritas utama dalam proses pengembangan. Selain itu, minimnya transparansi dalam sistem juga menandakan bahwa mekanisme pertanggungjawaban belum dirancang secara optimal. Hal ini menjadi pelajaran penting bahwa pengembangan teknologi tidak hanya berfokus pada kinerja sistem, tetapi juga harus disertai dengan tanggung jawab profesional dan etika.</p>
+
+## 2.7 Solusi
+<p>Untuk mengatasi permasalahan bias dalam sistem rekrutmen berbasis AI, langkah utama yang perlu dilakukan adalah memastikan bahwa data yang digunakan dalam proses pelatihan bersifat representatif dan tidak memihak kelompok tertentu. Data harus mencerminkan keberagaman kandidat, baik dari segi gender, latar belakang pendidikan, maupun pengalaman kerja, sehingga sistem tidak hanya belajar dari pola masa lalu yang sudah bias.</p>
+
+<p>Selain itu, perusahaan perlu melakukan audit algoritma secara berkala untuk mendeteksi potensi bias sejak dini. Proses evaluasi ini tidak hanya berfokus pada tingkat akurasi, tetapi juga harus memperhatikan aspek keadilan (fairness). Di samping itu, peningkatan transparansi sistem menjadi penting agar proses pengambilan keputusan dapat dipahami dan dipertanggungjawabkan. Penerapan konsep <i>human-in-the-loop</i> juga diperlukan, di mana keputusan akhir tetap melibatkan manusia sebagai pengawas. Dengan kombinasi antara teknologi dan pertimbangan manusia, diharapkan sistem dapat menghasilkan keputusan yang lebih adil, akurat, serta meminimalkan risiko diskriminasi dalam proses rekrutmen.</p>
