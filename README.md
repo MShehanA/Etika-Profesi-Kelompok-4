@@ -73,6 +73,8 @@
 ## 2.3	 Analisis Ketimpangan Seleksi
 <p align="justify">Ketika sistem AI digunakan dalam proses seleksi, bias yang terdapat dalam algoritma menyebabkan terjadinya ketimpangan dalam penilaian kandidat. Perempuan cenderung mendapatkan nilai yang lebih rendah dibandingkan laki-laki, meskipun memiliki kualifikasi yang setara. Hal ini menunjukkan bahwa sistem tidak sepenuhnya menilai berdasarkan kemampuan individu, melainkan dipengaruhi oleh pola data yang dipelajari dari masa lalu. Akibatnya, proses seleksi menjadi tidak adil dan merugikan kelompok tertentu sejak tahap awal rekrutmen.</p>
 
+<p align="justify">Fenomena ini juga didukung oleh penelitian Chang (2023) yang menyatakan bahwa bias dalam sistem rekrutmen berbasis AI dapat berdampak besar terhadap individu maupun masyarakat luas. Studi tersebut menegaskan bahwa kasus Amazon merupakan contoh nyata bagaimana algoritma dapat memperkuat diskriminasi gender ketika dilatih menggunakan data yang tidak seimbang. Oleh karena itu, penggunaan AI tanpa pengawasan yang memadai justru berpotensi memperbesar ketimpangan yang sudah ada di masyarakat.</p>
+
 ## 2.4  Analisis Transparansi AI
 
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
