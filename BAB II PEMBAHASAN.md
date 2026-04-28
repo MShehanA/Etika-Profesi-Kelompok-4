@@ -31,3 +31,5 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Kurangnya pengujian terhadap potensi bias menunjukkan bahwa aspek keadilan belum menjadi prioritas utama dalam proses pengembangan. Selain itu, minimnya transparansi dalam sistem juga menandakan bahwa mekanisme pertanggungjawaban belum dirancang secara optimal. Hal ini menjadi pelajaran penting bahwa pengembangan teknologi tidak hanya berfokus pada kinerja sistem, tetapi juga harus disertai dengan tanggung jawab profesional dan etika.</p>
 
 ## 2.7  Solusi
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Untuk mengatasi permasalahan bias dalam sistem rekrutmen berbasis AI, langkah utama yang perlu dilakukan adalah memastikan bahwa data yang digunakan dalam proses pelatihan bersifat representatif dan tidak memihak kelompok tertentu. Data harus mencerminkan keberagaman kandidat, baik dari segi gender, latar belakang pendidikan, maupun pengalaman kerja, sehingga sistem tidak hanya belajar dari pola masa lalu yang sudah bias.</p>
+
