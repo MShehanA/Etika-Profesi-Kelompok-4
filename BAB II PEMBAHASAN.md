@@ -25,7 +25,8 @@
 
 ## 2.5  Analisis Dampak Gender
 
-
 ## 2.6  Analisis Tanggung Jawab Pengembang
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Dalam pengembangan sistem AI, pengembang memiliki tanggung jawab besar untuk memastikan bahwa teknologi yang dibuat tidak merugikan masyarakat. Namun, dalam kasus ini terlihat bahwa tanggung jawab tersebut belum sepenuhnya dijalankan dengan baik.</p>
+
 
 ## 2.7  Solusi
