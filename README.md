@@ -111,3 +111,7 @@
 <p align="justify"> Selain itu, kurangnya transparansi dalam sistem AI menjadi salah satu faktor yang memperparah permasalahan yang terjadi. Sistem yang bersifat black box membuat proses pengambilan keputusan sulit dipahami dan tidak dapat dijelaskan secara jelas. Hal ini berdampak pada sulitnya mendeteksi bias sejak awal serta tidak adanya kejelasan mengenai pihak yang bertanggung jawab atas keputusan yang dihasilkan. Dampak dari kondisi ini tidak hanya dirasakan oleh individu, tetapi juga berpengaruh terhadap masyarakat secara luas, khususnya dalam memperlebar kesenjangan gender di dunia kerja. </p>
 
 <p align="justify"> Oleh karena itu, penggunaan AI dalam proses rekrutmen harus disertai dengan pengawasan yang ketat serta penerapan prinsip etika yang jelas. Penggunaan data yang lebih representatif, audit algoritma secara berkala, peningkatan transparansi, serta keterlibatan manusia dalam pengambilan keputusan menjadi langkah penting untuk meminimalkan bias. Dengan penerapan langkah-langkah tersebut, diharapkan sistem AI dapat digunakan secara lebih adil, bertanggung jawab, dan mampu memberikan manfaat tanpa menimbulkan diskriminasi terhadap kelompok tertentu. </p>
+
+<br>
+
+# DAFTAR PUSTAKA
