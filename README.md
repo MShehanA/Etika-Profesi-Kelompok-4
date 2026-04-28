@@ -90,7 +90,7 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Kurangnya transparansi juga berpengaruh terhadap akuntabilitas sistem, di mana tidak terdapat pihak yang secara jelas bertanggung jawab atas keputusan yang dihasilkan oleh AI. Kondisi ini menunjukkan bahwa transparansi merupakan aspek penting dalam pengembangan AI, terutama dalam sistem yang digunakan untuk pengambilan keputusan yang berdampak besar seperti rekrutmen tenaga kerja.</p>
 
 ## 2.5  Analisis Dampak Gender
-<p align="justify">Bias dalam sistem AI rekrutmen memiliki dampak yang signifikan terhadap kesetaraan gender di dunia kerja. Perempuan menjadi pihak yang paling dirugikan karena sistem secara sistematis memberikan penilaian yang lebih rendah.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Bias dalam sistem AI rekrutmen memiliki dampak yang signifikan terhadap kesetaraan gender di dunia kerja. Perempuan menjadi pihak yang paling dirugikan karena sistem secara sistematis memberikan penilaian yang lebih rendah.</p>
 
 <p align="justify">Akibatnya, peluang perempuan untuk bekerja di bidang tertentu menjadi semakin kecil. Dalam jangka panjang, hal ini dapat memperlebar kesenjangan gender, baik dalam hal kesempatan kerja maupun perkembangan karier. AI yang seharusnya membantu justru memperkuat ketimpangan yang sudah ada.</p>
 
