@@ -2,9 +2,9 @@
 "SKANDAL ALGORITMA REKRUTMEN AMAZON"
 > Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom.
 
-# Anggota Kelompok
+## Anggota Kelompok
 -----------------------------------------------------
-No | Nama                                   | NIM
+No | Nama                                 | NIM
 -----------------------------------------------------
 1  | Muhammad Shehan Algi                 | 4524210088
 2  | Nadine Agietha Bethesda              | 4524210073
