@@ -2,14 +2,16 @@
 "SKANDAL ALGORITMA REKRUTMEN AMAZON"
 > Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom.
 
-No | Nama                          | NIM
----------------------------------------------
-1  | Riast Dwi Sanditya           | 4524210088
-2  | Nadia Chelsea Alifia Ashab   | 4524210072
-3  | Najwa Khoerunnisa Suherman   | 4524210076
-4  | Sarah Syafitri Hilmi         | 4524210096
-5  | Rizka Ainun Nazori           | 4524210092
-
+# Anggota Kelompok
+-----------------------------------------------------
+No | Nama                                   | NIM
+-----------------------------------------------------
+1  | Muhammad Shehan Algi                 | 4524210088
+2  | Nadine Agietha Bethesda              | 4524210073
+3  | Firyal Nibras Hariyadi               | 4524210108
+4  | Joanne Trixie Isaura                 | 4524210109
+5  | Rihhadatul'Aisy Septifani Zain       | 4524210126
+------------------------------------------------------
 
 # S1-TEKNIK INFORMATIKA
 # FAKULTAS TEKNIK UNIVERSITAS PANCASILA
