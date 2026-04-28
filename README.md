@@ -87,9 +87,8 @@
 | Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             | Ketidakadilan tidak segera diperbaiki                    |
 
 <p><br>Berdasarkan tabel di atas, dapat dilihat bahwa tingkat transparansi dalam sistem AI rekrutmen Amazon masih sangat rendah. Sistem yang bersifat black box menyebabkan proses pengambilan keputusan tidak dapat dipahami secara jelas, baik oleh pengembang maupun pengguna. Hal ini berdampak pada sulitnya mendeteksi bias yang terjadi serta tidak adanya kejelasan mengenai alasan suatu kandidat diterima atau ditolak. </p></br>
-
 <p><br>Kurangnya transparansi juga berpengaruh terhadap akuntabilitas sistem, di mana tidak terdapat pihak yang secara jelas bertanggung jawab atas keputusan yang dihasilkan oleh AI. Kondisi ini menunjukkan bahwa transparansi merupakan aspek penting dalam pengembangan AI, terutama dalam sistem yang digunakan untuk pengambilan keputusan yang berdampak besar seperti rekrutmen tenaga kerja.</p></br>
 
 ## 2.5  Analisis Dampak Gender
-<p>Bias dalam sistem AI rekrutmen memiliki dampak yang signifikan terhadap kesetaraan gender di dunia kerja. Perempuan menjadi pihak yang paling dirugikan karena sistem secara sistematis memberikan penilaian yang lebih rendah.
-Akibatnya, peluang perempuan untuk bekerja di bidang tertentu menjadi semakin kecil. Dalam jangka panjang, hal ini dapat memperlebar kesenjangan gender, baik dalam hal kesempatan kerja maupun perkembangan karier. AI yang seharusnya membantu justru memperkuat ketimpangan yang sudah ada.</p>
+<p><br>Bias dalam sistem AI rekrutmen memiliki dampak yang signifikan terhadap kesetaraan gender di dunia kerja. Perempuan menjadi pihak yang paling dirugikan karena sistem secara sistematis memberikan penilaian yang lebih rendah.</p></br>
+<p><br></p>Akibatnya, peluang perempuan untuk bekerja di bidang tertentu menjadi semakin kecil. Dalam jangka panjang, hal ini dapat memperlebar kesenjangan gender, baik dalam hal kesempatan kerja maupun perkembangan karier. AI yang seharusnya membantu justru memperkuat ketimpangan yang sudah ada.</p></br>
