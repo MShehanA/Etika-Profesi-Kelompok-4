@@ -1,9 +1,11 @@
 # Etika-Profesi-Kelompok-4
+
+---
+
 ## "Skandal Algoritma Rekrutmen Amazon"
 
 > **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom.
 
----
 
 ## 👥 Anggota Kelompok
 
