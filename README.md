@@ -77,14 +77,14 @@
 <br> 
 
 ## 2.4  Analisis Transparansi AI
-<p> 
+
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
 |--------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
 | Model AI (Black Box)     | Tidak dapat dijelaskan secara jelas bagaimana keputusan dibuat     | Sulit mengetahui alasan penolakan kandidat               |
 | Akses Informasi          | Kandidat tidak mengetahui proses penilaian CV                      | Menimbulkan ketidakpercayaan terhadap sistem             |
 | Deteksi Bias             | Tidak dilakukan audit awal secara menyeluruh                       | Bias gender tidak terdeteksi sejak awal                  |
 | Akuntabilitas            | Tidak ada mekanisme pertanggungjawaban yang jelas                  | Sulit menentukan pihak yang bertanggung jawab            |
-| Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             | Ketidakadilan tidak segera diperbaiki                    |</p>
+| Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             | Ketidakadilan tidak segera diperbaiki                    |
 
 <p>Berdasarkan tabel di atas, dapat dilihat bahwa tingkat transparansi dalam sistem AI rekrutmen Amazon masih sangat rendah. Sistem yang bersifat black box menyebabkan proses pengambilan keputusan tidak dapat dipahami secara jelas, baik oleh pengembang maupun pengguna. Hal ini berdampak pada sulitnya mendeteksi bias yang terjadi serta tidak adanya kejelasan mengenai alasan suatu kandidat diterima atau ditolak.
 Kurangnya transparansi juga berpengaruh terhadap akuntabilitas sistem, di mana tidak terdapat pihak yang secara jelas bertanggung jawab atas keputusan yang dihasilkan oleh AI. Kondisi ini menunjukkan bahwa transparansi merupakan aspek penting dalam pengembangan AI, terutama dalam sistem yang digunakan untuk pengambilan keputusan yang berdampak besar seperti rekrutmen tenaga kerja.</p>
