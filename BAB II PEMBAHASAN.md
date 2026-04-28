@@ -15,9 +15,9 @@
 |--------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
 | Model AI (Black Box)     | Tidak dapat dijelaskan secara jelas bagaimana keputusan dibuat     | Sulit mengetahui alasan penolakan kandidat
 | Akses Informasi          | Kandidat tidak mengetahui proses penilaian CV                      | Menimbulkan ketidakpercayaan terhadap sistem
-| Deteksi Bias             | Tidak dilakukan audit awal secara menyeluruh                       |
-| Akuntabilitas            | Tidak ada mekanisme pertanggungjawaban yang jelas                  |
-| Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             |
+| Deteksi Bias             | Tidak dilakukan audit awal secara menyeluruh                       | Bias gender tidak terdeteksi sejak awal
+| Akuntabilitas            | Tidak ada mekanisme pertanggungjawaban yang jelas                  | Sulit menentukan pihak yang bertanggung jawab
+| Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             | Ketidakadilan tidak segera diperbaiki
 
 ## 2.5  Analisis Dampak Gender
 
