@@ -5,7 +5,7 @@
 <p>Akibatnya, AI tidak benar-benar menilai kandidat berdasarkan kemampuan individu, melainkan berdasarkan pola yang dipelajari dari data masa lalu. Hal ini terlihat dari bagaimana sistem memberikan penalti terhadap CV yang mengandung kata “women’s” serta menurunkan nilai kandidat dari institusi pendidikan perempuan. Kondisi ini menunjukkan bahwa AI tidak memiliki pemahaman konteks sosial, melainkan hanya mereplikasi pola yang ada dalam data.</p>
 
 ## 2.2  Analisis Bias Data Historis
-<p>Salah satu penyebab utama bias dalam sistem AI adalah penggunaan data historis yang tidak seimbang. Dalam kasus Amazon, data pelatihan didominasi oleh laki-laki, sehingga tidak mencerminkan keberagaman kandidat secara keseluruhan. AI kemudian menjadikan pola tersebut sebagai standar dalam menentukan kandidat ideal.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Salah satu penyebab utama bias dalam sistem AI adalah penggunaan data historis yang tidak seimbang. Dalam kasus Amazon, data pelatihan didominasi oleh laki-laki, sehingga tidak mencerminkan keberagaman kandidat secara keseluruhan. AI kemudian menjadikan pola tersebut sebagai standar dalam menentukan kandidat ideal.</p>
 <p>Proses pembelajaran mesin membuat sistem mengidentifikasi pola-pola yang dianggap berkorelasi dengan keberhasilan di masa lalu, tanpa mempertimbangkan apakah pola tersebut adil atau tidak. Akibatnya, bias yang sudah ada dalam data akan terus direproduksi. Selain itu, tidak adanya audit bias sebelum sistem digunakan semakin memperparah kondisi ini, karena kesalahan tidak terdeteksi sejak awal. </p>
 
 ## 2.3  Analisis Ketimpangan Seleksi
@@ -24,6 +24,7 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Kurangnya transparansi juga berpengaruh terhadap akuntabilitas sistem, di mana tidak terdapat pihak yang secara jelas bertanggung jawab atas keputusan yang dihasilkan oleh AI. Kondisi ini menunjukkan bahwa transparansi merupakan aspek penting dalam pengembangan AI, terutama dalam sistem yang digunakan untuk pengambilan keputusan yang berdampak besar seperti rekrutmen tenaga kerja.</p>
 
 ## 2.5  Analisis Dampak Gender
+
 
 ## 2.6  Analisis Tanggung Jawab Pengembang
 
