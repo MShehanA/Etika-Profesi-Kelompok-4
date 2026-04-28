@@ -1,5 +1,5 @@
 ## BAB II
 ## PEMBAHASAN
-## Analisis Netralitas Sistem AI
-## Analisis Bias Data Historis
-## Analisis Ketimpangan Seleksi
+## 2.1  Analisis Netralitas Sistem AI
+## 2.2  Analisis Bias Data Historis
+## 2.3  Analisis Ketimpangan Seleksi
