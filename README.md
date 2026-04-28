@@ -40,11 +40,11 @@
 <br>
 
 #### 1.2 Rumusan Masalah 
-<ul>
+<ol>
 <li>Bagaimana sistem rekrutmen AI Amazon dapat kehilangan netralitas dalam menilai kandidat?</li>
 <li>Bagaimana data historis memengaruhi munculnya bias dalam algoritma rekrutmen?</li>
 <li>Bagaimana ketimpangan terjadi dalam proses seleksi berbasis AI?</li>
 <li>Bagaimana kurangnya transparansi memengaruhi hasil keputusan AI?</li>
 <li>Bagaimana solusi untuk menciptakan sistem AI yang lebih adil dan bertanggung jawab?</li>
-</ul>
+</ol>
 
