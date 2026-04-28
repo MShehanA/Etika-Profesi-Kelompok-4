@@ -47,4 +47,15 @@
 <li>Bagaimana kurangnya transparansi memengaruhi hasil keputusan AI?</li>
 <li>Bagaimana solusi untuk menciptakan sistem AI yang lebih adil dan bertanggung jawab?</li>
 </ol>
+<br>
+
+#### 1.3 Tujuan
+<ol>
+<li>Menganalisis bias dalam sistem rekrutmen AI Amazon</li>
+<li>Mengidentifikasi penyebab bias algoritma</li>
+<li>Menjelaskan dampak penggunaan AI yang tidak adil</li>
+<li>Mengkaji kasus dari perspektif etika, moral, dan profesi</li>
+<li>Memberikan solusi untuk pengembangan AI yang lebih adil</li>
+</ol>
+<br>
 
