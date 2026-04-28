@@ -116,8 +116,6 @@
 <br>
 
 # DAFTAR PUSTAKA
-<ol>
-<li> Pratama, B. P., et al. (2024). Adoption of AI in Recruitment: Implications for Bias, Efficiency, and Candidate Experience.</li>
-<li> Albaroudi, E., Mansouri, T., & Alameer, A. (2024). A Comprehensive Review of AI Techniques for Addressing Algorithmic Bias in Job Hiring.</li>
-<li>Kassir, S., et al. (2023). AI for hiring in context: mitigating disparate impact.</li>
-<li>Chang, X. (2023). Gender Bias in Hiring: An Analysis of the Impact of Amazon's Recruiting Algorithm. Advances in Economics, Management and Political Sciences.</li>
+<p style="text-align: justify;">
+Pratama, B. P., et al. (2024). <i>Adoption of AI in Recruitment: Implications for Bias, Efficiency, and Candidate Experience</i>.
+</p>
