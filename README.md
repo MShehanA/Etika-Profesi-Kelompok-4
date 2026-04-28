@@ -96,6 +96,7 @@
 
 ## 2.6 Analisis Tanggung Jawab Pengembang
 <p align="justify">Dalam pengembangan sistem AI, pengembang memiliki tanggung jawab besar untuk memastikan bahwa teknologi yang dibuat tidak merugikan masyarakat. Namun, dalam kasus ini terlihat bahwa tanggung jawab tersebut belum sepenuhnya dijalankan dengan baik.</p>
+
 <p align="justify">Kurangnya pengujian terhadap potensi bias menunjukkan bahwa aspek keadilan belum menjadi prioritas utama dalam proses pengembangan. Selain itu, minimnya transparansi dalam sistem juga menandakan bahwa mekanisme pertanggungjawaban belum dirancang secara optimal. Hal ini menjadi pelajaran penting bahwa pengembangan teknologi tidak hanya berfokus pada kinerja sistem, tetapi juga harus disertai dengan tanggung jawab profesional dan etika.</p>
 
 ## 2.7 Solusi
