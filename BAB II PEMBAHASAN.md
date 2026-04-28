@@ -13,8 +13,8 @@
 ## 2.4  Analisis Transparansi AI
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
 |--------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
-| Model AI (Black Box)     | Tidak dapat dijelaskan secara jelas bagaimana keputusan dibuat     |
-| Akses Informasi          | Kandidat tidak mengetahui proses penilaian CV                      |
+| Model AI (Black Box)     | Tidak dapat dijelaskan secara jelas bagaimana keputusan dibuat     | Sulit mengetahui alasan penolakan kandidat
+| Akses Informasi          | Kandidat tidak mengetahui proses penilaian CV                      | Menimbulkan ketidakpercayaan terhadap sistem
 | Deteksi Bias             | Tidak dilakukan audit awal secara menyeluruh                       |
 | Akuntabilitas            | Tidak ada mekanisme pertanggungjawaban yang jelas                  |
 | Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             |
