@@ -19,6 +19,8 @@
 | Akuntabilitas            | Tidak ada mekanisme pertanggungjawaban yang jelas                  | Sulit menentukan pihak yang bertanggung jawab
 | Evaluasi Sistem          | Fokus pada akurasi, bukan transparansi                             | Ketidakadilan tidak segera diperbaiki
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Berdasarkan tabel di atas, dapat dilihat bahwa tingkat transparansi dalam sistem AI rekrutmen Amazon masih sangat rendah. Sistem yang bersifat black box menyebabkan proses pengambilan keputusan tidak dapat dipahami secara jelas, baik oleh pengembang maupun pengguna. Hal ini berdampak pada sulitnya mendeteksi bias yang terjadi serta tidak adanya kejelasan mengenai alasan suatu kandidat diterima atau ditolak. </p>
+
 ## 2.5  Analisis Dampak Gender
 
 ## 2.6  Analisis Tanggung Jawab Pengembang
