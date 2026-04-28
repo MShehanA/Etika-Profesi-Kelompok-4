@@ -115,3 +115,5 @@
 <br>
 
 # DAFTAR PUSTAKA
+<ol>
+<li> Pratama, B. P., et al. (2024). Adoption of AI in Recruitment: Implications for Bias, Efficiency, and Candidate Experience.
