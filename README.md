@@ -47,7 +47,6 @@
 ## BAB I 
 ### PENDAHULUAN
 #### 1.1	Latar Belakang
-<br>
 Perkembangan kecerdasan buatan (Artificial Intelligence/AI) telah membawa perubahan dalam berbagai bidang, termasuk proses rekrutmen tenaga kerja. Teknologi ini digunakan untuk meningkatkan efisiensi dan membantu perusahaan menyeleksi kandidat secara lebih cepat dan sistematis. Namun, di balik manfaat tersebut, penggunaan AI juga menimbulkan tantangan, terutama terkait potensi bias dalam pengambilan keputusan.
 <br>
 Menurut Pratama et al. (2024), penggunaan AI dalam rekrutmen dapat meningkatkan efisiensi dan konsistensi penilaian kandidat, tetapi tetap memiliki risiko bias apabila data yang digunakan tidak representatif. Hal ini menunjukkan bahwa sistem AI tidak sepenuhnya netral dan sangat bergantung pada kualitas data pelatihan yang digunakan.
