@@ -29,6 +29,7 @@
 ## 2.5  Analisis Dampak Gender
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Bias dalam sistem AI rekrutmen memiliki dampak yang signifikan terhadap kesetaraan gender di dunia kerja. Perempuan menjadi pihak yang paling dirugikan karena sistem secara sistematis memberikan penilaian yang lebih rendah.</p>
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Akibatnya, peluang perempuan untuk bekerja di bidang tertentu menjadi semakin kecil. Dalam jangka panjang, hal ini dapat memperlebar kesenjangan gender, baik dalam hal kesempatan kerja maupun perkembangan karier. AI yang seharusnya membantu justru memperkuat ketimpangan yang sudah ada.</p>
 
 ## 2.6  Analisis Tanggung Jawab Pengembang
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Dalam pengembangan sistem AI, pengembang memiliki tanggung jawab besar untuk memastikan bahwa teknologi yang dibuat tidak merugikan masyarakat. Namun, dalam kasus ini terlihat bahwa tanggung jawab tersebut belum sepenuhnya dijalankan dengan baik.</p>
