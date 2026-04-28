@@ -9,6 +9,8 @@
 <p>Proses pembelajaran mesin membuat sistem mengidentifikasi pola-pola yang dianggap berkorelasi dengan keberhasilan di masa lalu, tanpa mempertimbangkan apakah pola tersebut adil atau tidak. Akibatnya, bias yang sudah ada dalam data akan terus direproduksi. Selain itu, tidak adanya audit bias sebelum sistem digunakan semakin memperparah kondisi ini, karena kesalahan tidak terdeteksi sejak awal. </p>
 
 ## 2.3  Analisis Ketimpangan Seleksi
+
+## 2.4  Analisis Transparansi AI
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
 |--------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
 | Model AI (Black Box)     |
@@ -16,8 +18,6 @@
 | Deteksi Bias             |
 | Akuntabilitas            |
 | Evaluasi Sistem          |
-## 2.4  Analisis Transparansi AI
-
 
 ## 2.5  Analisis Dampak Gender
 
