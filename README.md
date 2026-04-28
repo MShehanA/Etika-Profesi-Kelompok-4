@@ -51,7 +51,7 @@
 <br>
 <p>Menurut Pratama et al. (2024), penggunaan AI dalam rekrutmen dapat meningkatkan efisiensi dan konsistensi penilaian kandidat, tetapi tetap memiliki risiko bias apabila data yang digunakan tidak representatif. Hal ini menunjukkan bahwa sistem AI tidak sepenuhnya netral dan sangat bergantung pada kualitas data pelatihan yang digunakan.</p>
 <br>
-Selain itu, Albaroudi et al. (2024) menjelaskan bahwa bias dalam sistem AI sering berasal dari data historis yang mengandung ketimpangan, seperti dominasi gender tertentu. AI cenderung mereplikasi pola tersebut sebagai acuan dalam menentukan kandidat ideal, sehingga berpotensi menimbulkan diskriminasi secara tidak langsung. Kassir et al. (2023) juga menekankan bahwa kurangnya transparansi dalam sistem AI yang bersifat black box membuat bias sulit dideteksi dan diperbaiki.
+<p>Selain itu, Albaroudi et al. (2024) menjelaskan bahwa bias dalam sistem AI sering berasal dari data historis yang mengandung ketimpangan, seperti dominasi gender tertentu. AI cenderung mereplikasi pola tersebut sebagai acuan dalam menentukan kandidat ideal, sehingga berpotensi menimbulkan diskriminasi secara tidak langsung. Kassir et al. (2023) juga menekankan bahwa kurangnya transparansi dalam sistem AI yang bersifat black box membuat bias sulit dideteksi dan diperbaiki.</p>
 <br>
 Kasus Amazon pada tahun 2014 menjadi contoh nyata, di mana sistem AI dilatih menggunakan data yang didominasi laki-laki. Akibatnya, sistem memberikan penilaian yang tidak adil terhadap perempuan. Hal ini menunjukkan bahwa penggunaan AI dalam rekrutmen perlu disertai pengawasan, data yang representatif, dan penerapan prinsip etika.
 <br>
