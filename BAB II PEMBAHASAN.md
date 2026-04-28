@@ -7,8 +7,20 @@
 ## 2.2  Analisis Bias Data Historis
 <p>Salah satu penyebab utama bias dalam sistem AI adalah penggunaan data historis yang tidak seimbang. Dalam kasus Amazon, data pelatihan didominasi oleh laki-laki, sehingga tidak mencerminkan keberagaman kandidat secara keseluruhan. AI kemudian menjadikan pola tersebut sebagai standar dalam menentukan kandidat ideal.</p>
 <p>Proses pembelajaran mesin membuat sistem mengidentifikasi pola-pola yang dianggap berkorelasi dengan keberhasilan di masa lalu, tanpa mempertimbangkan apakah pola tersebut adil atau tidak. Akibatnya, bias yang sudah ada dalam data akan terus direproduksi. Selain itu, tidak adanya audit bias sebelum sistem digunakan semakin memperparah kondisi ini, karena kesalahan tidak terdeteksi sejak awal. </p>
+
 ## 2.3  Analisis Ketimpangan Seleksi
+| Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
+|--------------------------|--------------------------------------------------------------------|----------------------------------------------------------|
+| Model AI (Black Box)     |
+| Akses Informasi          |
+| Deteksi Bias             |
+| Akuntabilitas            |
+| Evaluasi Sistem          |
 ## 2.4  Analisis Transparansi AI
+
+
 ## 2.5  Analisis Dampak Gender
+
 ## 2.6  Analisis Tanggung Jawab Pengembang
+
 ## 2.7  Solusi
