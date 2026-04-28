@@ -1,3 +1,5 @@
+---
+
 # Etika-Profesi-Kelompok-4
 ## "Skandal Algoritma Rekrutmen Amazon"
 
@@ -24,6 +26,7 @@
 - **Universitas:** Universitas Pancasila  
 - **Tahun Ajaran:** 2026/2027
 
+---
 <br>
 
 ## BAB I 
