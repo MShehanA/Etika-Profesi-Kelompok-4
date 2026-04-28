@@ -5,3 +5,5 @@
 ## 2.3  Analisis Ketimpangan Seleksi
 ## 2.4  Analisis Transparansi AI
 ## 2.5  Analisis Dampak Gender
+## 2.6  Analisis Tanggung Jawab Pengembang
+## 2.7  Solusi
