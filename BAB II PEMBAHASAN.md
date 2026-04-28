@@ -9,6 +9,8 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Proses pembelajaran mesin membuat sistem mengidentifikasi pola-pola yang dianggap berkorelasi dengan keberhasilan di masa lalu, tanpa mempertimbangkan apakah pola tersebut adil atau tidak. Akibatnya, bias yang sudah ada dalam data akan terus direproduksi. Selain itu, tidak adanya audit bias sebelum sistem digunakan semakin memperparah kondisi ini, karena kesalahan tidak terdeteksi sejak awal. </p>
 
 ## 2.3  Analisis Ketimpangan Seleksi
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Ketika sistem AI digunakan dalam proses seleksi, bias yang terdapat dalam algoritma menyebabkan terjadinya ketimpangan dalam penilaian kandidat. Perempuan cenderung mendapatkan nilai yang lebih rendah dibandingkan laki-laki, meskipun memiliki kualifikasi yang setara. Hal ini menunjukkan bahwa sistem tidak sepenuhnya menilai berdasarkan kemampuan individu, melainkan dipengaruhi oleh pola data yang dipelajari dari masa lalu. Akibatnya, proses seleksi menjadi tidak adil dan merugikan kelompok tertentu sejak tahap awal rekrutmen.</p>
+
 
 ## 2.4  Analisis Transparansi AI
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
