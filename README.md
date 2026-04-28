@@ -3,7 +3,7 @@
 
 > **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom.
 
----
+<br>
 
 ## 👥 Anggota Kelompok
 
@@ -15,25 +15,7 @@
 | 4  | Joanne Trixie Isaura                 | 4524210109 |
 | 5  | Rihhadatul'Aisy Septifani Zain       | 4524210126 |
 
----
-# Etika-Profesi-Kelompok-4
-## "Skandal Algoritma Rekrutmen Amazon"
-
-> **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom.
-
----
-
-## 👥 Anggota Kelompok
-
-| No | Nama                                   | NIM        |
-|----|----------------------------------------|------------|
-| 1  | Muhammad Shehan Algi                  | 4524210088 |
-| 2  | Nadine Agietha Bethesda              | 4524210073 |
-| 3  | Firyal Nibras Hariyadi               | 4524210108 |
-| 4  | Joanne Trixie Isaura                 | 4524210109 |
-| 5  | Rihhadatul'Aisy Septifani Zain       | 4524210126 |
-
----
+<br>
 
 ## 🎓 Informasi Akademik
 
@@ -41,7 +23,7 @@
 - **Fakultas:** Teknik  
 - **Universitas:** Universitas Pancasila  
 - **Tahun Ajaran:** 2026/2027
----
+
 <br>
 
 ## BAB I 
