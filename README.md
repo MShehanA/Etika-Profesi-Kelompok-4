@@ -23,10 +23,7 @@
 - **Fakultas:** Teknik  
 - **Universitas:** Universitas Pancasila  
 - **Tahun Ajaran:** 2026/2027
-
----
----
----
+<br>
 
 ## BAB I 
 ### PENDAHULUAN
