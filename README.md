@@ -3,7 +3,6 @@
 
 > **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom.
 
-<br>
 ---
 
 ## 👥 Anggota Kelompok
