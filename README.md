@@ -119,3 +119,6 @@
 <p style="text-align: justify;">
 Pratama, B. P., et al. (2024). <i>Adoption of AI in Recruitment: Implications for Bias, Efficiency, and Candidate Experience</i>.
 </p>
+<p style="text-align: justify;">
+Albaroudi, E., Mansouri, T., &amp; Alameer, A. (2024). <i>A Comprehensive Review of AI Techniques for Addressing Algorithmic Bias in Job Hiring</i>.
+</p>
