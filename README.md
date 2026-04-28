@@ -125,4 +125,6 @@ Albaroudi, E., Mansouri, T., &amp; Alameer, A. (2024). <i>A Comprehensive Review
 <p style="text-align: justify;">
 Kassir, S., et al. (2023). <i>AI for Hiring in Context: Mitigating Disparate Impact</i>.
 </p>
-
+<p style="text-align: justify;">
+Chang, X. (2023). <i>Gender Bias in Hiring: An Analysis of the Impact of Amazon's Recruiting Algorithm</i>. <i>Advances in Economics, Management and Political Sciences</i>.
+</p>
