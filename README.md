@@ -65,6 +65,9 @@
 
 <p align="justify">Akibatnya, AI tidak benar-benar menilai kandidat berdasarkan kemampuan individu, melainkan berdasarkan pola yang dipelajari dari data masa lalu. Hal ini terlihat dari bagaimana sistem memberikan penalti terhadap CV yang mengandung kata “women’s” serta menurunkan nilai kandidat dari institusi pendidikan perempuan. Kondisi ini menunjukkan bahwa AI tidak memiliki pemahaman konteks sosial, melainkan hanya mereplikasi pola yang ada dalam data. </p>
 
+## 2.2   Analisis Bias Data Historis
+<p align="justify">Salah satu penyebab utama bias dalam sistem AI adalah penggunaan data historis yang tidak seimbang. Dalam kasus Amazon, data pelatihan didominasi oleh laki-laki, sehingga tidak mencerminkan keberagaman kandidat secara keseluruhan. AI kemudian menjadikan pola tersebut sebagai standar dalam menentukan kandidat ideal.</p>
+
 ## 2.4  Analisis Transparansi AI
 
 | Aspek                    | Kondisi pada Sistem AI Amazon                                      | Dampak yang Terjadi                                      |
