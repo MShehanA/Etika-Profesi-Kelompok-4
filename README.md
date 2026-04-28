@@ -9,7 +9,7 @@
 
 | No | Nama                                   | NIM        |
 |----|----------------------------------------|------------|
-| 1  | Muhammad Shehan Algi                  | 4524210088 |
+| 1  | Muhammad Shehan Algi                  | 4524210069 |
 | 2  | Nadine Agietha Bethesda              | 4524210073 |
 | 3  | Firyal Nibras Hariyadi               | 4524210108 |
 | 4  | Joanne Trixie Isaura                 | 4524210109 |
@@ -25,7 +25,6 @@
 - **Tahun Ajaran:** 2026/2027
 ---
 <br>
-
 ## BAB I 
 ### PENDAHULUAN
 #### 1.1	Latar Belakang
