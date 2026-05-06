@@ -1,6 +1,9 @@
 # Video Presentasi UTS
-[![Tonton Video](https://img.youtube.com/vi/p0_PKxioKzs/0.jpg)](https://youtu.be/p0_PKxioKzs)
-
+<p align="center">
+  <a href="https://youtu.be/p0_PKxioKzs">
+    <img src="https://img.youtube.com/vi/p0_PKxioKzs/0.jpg" width="500">
+  </a>
+</p>
 ---
 # Etika-Profesi-Kelompok-4
 
